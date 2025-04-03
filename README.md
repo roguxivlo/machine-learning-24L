@@ -11,3 +11,7 @@ Author: Jan Roguwski
 ## Homework 2
 
 [Here](https://github.com/roguxivlo/machine-learning-24L/blob/main/hw2.ipynb)
+
+## Homework 4
+
+[Here](https://github.com/roguxivlo/machine-learning-24L/blob/main/hw4.ipynb)
